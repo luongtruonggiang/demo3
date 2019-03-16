@@ -14,18 +14,6 @@
     <li>
       <a href="/Lab3/add_product.php">Thêm sản phẩm</a>
     </li>
-
-
-  </ul>
-  <li>
-      <a href="/Lab3/add_product.php">Thêm sản phẩm</a>
-    </li>
-    <li>
-      <a href="/Lab3/add_product.php">Thêm sản phẩm</a>
-    </li>
-    <li>
-      <a href="/Lab3/add_product.php">Thêm sản phẩm</a>
-    </li>
     <li>
       <a href="/Lab3/add_product.php">Thêm sản phẩm</a>
     </li>
